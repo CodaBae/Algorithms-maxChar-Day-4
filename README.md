@@ -1,2 +1,2 @@
-# Algorithms-Reverse-maxChar-Day-4
+# Algorithms-maxChar-Day-4
 100 Days of Code Algorithms
